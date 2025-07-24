@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Hassan
 
-<!--
-**MuhammadHassan667/MuhammadHassan667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Data Analytics  
+👨‍💻 Skilled in Python · SQL · Tableau · Machine Learning · Microsoft Azure · Numpy · Pandas · Excel · Seaborn   
+📊 Turning data into insights that drive decisions  
+🌍 Based in Germany | 📬 Open to roles & collaboration in Data/AI  
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- Python, Pandas, NumPy, Scikit-learn  
+- SQL, MySQL  
+- Tableau, Power BI  
+- Microsoft Azure, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Customer Churn Prediction** — SQL + Python + EDA  
+
+## 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/muhammad-hassan-saeed2297)
+- Email: muhammad2297hassan@gmail.com
