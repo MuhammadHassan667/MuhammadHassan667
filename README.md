@@ -15,5 +15,5 @@
 - **Customer Churn Prediction** — SQL + Python + EDA  
 
 ## 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/muhammad-hassan-saeed2297)
+- [LinkedIn](www.linkedin.com/in/muhammad-hassan-saeed541)
 - Email: muhammad2297hassan@gmail.com
