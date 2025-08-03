@@ -1,22 +1,3 @@
-# 👋 Hi, I'm Hassan
-
-🎓 MSc in Data Analytics  
-👨‍💻 Skilled in Python · SQL · Tableau · Machine Learning · Microsoft Azure · Numpy · Pandas · Excel · Seaborn   
-📊 Turning data into insights that drive decisions  
-🌍 Based in Germany | 📬 Open to roles & collaboration in Data/AI  
-
-## 🔧 Tools & Technologies
-- Python, Pandas, NumPy, Scikit-learn  
-- SQL, MySQL  
-- Tableau, Power BI  
-- Microsoft Azure, Git/GitHub
-
-## 🚀 Projects
-- **Customer Churn Prediction** — SQL + Python + EDA  
-
-## 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/muhammad-hassan-saeed541)
-- Email: muhammad2297hassan@gmail.com
 # 👋 Hi, I'm Muhammad Hassan
 
 **MSc Data Analyst** | Python | SQL | Retail Analytics | Business Intelligence  
@@ -45,5 +26,5 @@
 **Version Control**: Git/GitHub  
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](www.linkedin.com/in/muhammad-hassan-saeed541)  
 ✉️ muhammad2297hassan@gmail.com  
