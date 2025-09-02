@@ -1,29 +1,26 @@
-# 👋 Hi, I'm Muhammad Hassan
+👋 Hi, I'm Muhammad Hassan  
+MSc in Data Analytics | Python | SQL | Tableau | Power BI | Business Intelligence  
 
-**MSc Data Analyst** | Python | SQL | Retail Analytics | Business Intelligence  
+🔍 I transform raw datasets into meaningful insights with:  
+Python | Pandas | SQL | Tableau | Power BI | Azure | Machine Learning  
 
-🔍 **I transform raw data into strategic insights** with:  
-`Python` `Pandas` `SQL` `Tableau` `Azure` `Machine Learning`  
+🏆 Featured Projects  
+🛒 Supermarket Sales Analytics  
+- Analyzed 10K+ transactions with Python & Pandas  
+- Identified peak sales hours driving 23% higher revenue  
+- Automated cleaning pipeline and visualizations  
 
-## 🏆 Featured Projects
+🍷 Wine Quality Prediction  
+- Built ML classification model with 85% accuracy  
+- Applied clustering to group wine quality levels  
 
-### [🛒 Supermarket Sales Analytics](https://github.com/MuhammadHassan667/supermarket-sales-analysis)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-orange)
-- Identified **peak sales hours** (1-3PM, 7PM) driving 23% higher revenue
-- Automated cleaning of 10K+ transactions
-- **Key Insight**: Food & Beverages generated 28% of total sales
+🚇 Public Transport Delay Analysis (Berlin)  
+- Automated ETL pipeline for GTFS delay data  
+- Visualized peak-time delay trends  
+- Reduced reporting time by 30%  
 
-### [📉 Customer Churn Prediction](https://github.com/MuhammadHassan667/customer-churn)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-blue)
-- Achieved 89% accuracy in predicting customer attrition
-- Feature engineering with SQL and Pandas
-
-## 🛠️ Tech Stack
-**Data Analysis**: Python (Pandas, NumPy), SQL  
-**Visualization**: Tableau, Matplotlib/Seaborn  
-**Cloud**: Microsoft Azure  
-**Version Control**: Git/GitHub  
+🛠️ Tech Stack  
+Python (Pandas, NumPy, Scikit-learn) | SQL | Tableau | Power BI | Matplotlib/Seaborn | Azure | Git/GitHub   
 
 ## 📫 Let's Connect
 [![LinkedIn](www.linkedin.com/in/muhammad-hassan-saeed541)  
